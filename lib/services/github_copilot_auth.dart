@@ -1,4 +1,3 @@
-import 'dart:convert';
 import 'package:dio/dio.dart';
 
 /// GitHub Copilot OAuth Device Flow
